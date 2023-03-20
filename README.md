@@ -1,10 +1,6 @@
 # Mid-bootcamp-project
+Amazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns.
+This dataset contains 1K+ Product's Ratings and reviews from Amason.
 
-Forecast sales using store, promotion, and competitor data.
-## Description
-Rossmann operates over 3,000 drug stores in 7 European countries.
-Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. 
-Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality.
-With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
 
