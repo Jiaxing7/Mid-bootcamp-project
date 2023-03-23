@@ -3,4 +3,5 @@ Amazon is an American Tech Multi-National Company whose business interests inclu
 This dataset contains 1K+ Product's Ratings and reviews from Amason.
 
 
-
+Tableau:
+https://public.tableau.com/app/profile/jiaxing.li6522/viz/amazontableau_16794845357180/1?publish=yes
