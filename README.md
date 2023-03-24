@@ -23,6 +23,12 @@ This dataset contains 1K+ Product's Ratings and reviews from Amason in India.
 * LinearRegression
 * KNeighborsClassifier
 
+### Conclusion
+If someone want to do business on Amazon in India, here are a few tips:
+1. Consider selling products in the electronics category, which priced over 50 Euros.
+2. All products must have a discount, and prices are best end with '99', like 199, 399.
+3. Beware of there will be many false reviews.
+
 
 ### Presentation
 * Use [tableau](https://public.tableau.com/app/profile/jiaxing.li6522/viz/amazontableau_16794845357180/1?publish=yes) to analyze 
